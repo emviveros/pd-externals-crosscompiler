@@ -127,7 +127,7 @@ end()
 ## PROGRAMA PRINCIPAL
 main()
 {
-    #install_dependencies
+    install_dependencies
     create_folders
     download_pdBinaries
     #install_scripts
